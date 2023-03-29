@@ -14,4 +14,5 @@ Instructions:
  - download Coode.ino
  - flash Code.ino in your arduino
  - close arduino IDE
+ - download and extract AlteregoSample from releases
  - open AlteregoHeadsetAPI.exe in the folder AlteregoSample
