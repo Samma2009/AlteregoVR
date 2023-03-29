@@ -16,3 +16,7 @@ Instructions:
  - close arduino IDE
  - download and extract AlteregoSample from releases
  - open AlteregoHeadsetAPI.exe in the folder AlteregoSample
+ - wait a few second
+ 
+Troubleshooting:
+ - if the exaple doesen't work plug your arduino into COM3
