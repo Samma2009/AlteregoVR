@@ -11,8 +11,8 @@ Scheme:
 ![schema](https://user-images.githubusercontent.com/81291107/228598341-6b3d8e64-3c14-42e7-b891-8b189104bf01.png)
 
 Instructions:
- - download Coode.ino
- - flash Code.ino in your arduino
+ - download ArduinoCode.ino
+ - flash ArduinoCode.ino in your arduino
  - close arduino IDE
  - download and extract AlteregoSample from releases
  - open AlteregoHeadsetAPI.exe in the folder AlteregoSample
